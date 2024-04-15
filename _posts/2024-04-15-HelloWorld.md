@@ -2,7 +2,7 @@
 title: Technical Writing - Base Tools
 date: 2024-04-15 11:49:55 +0000
 categories: [Tech, Tools]
-tags: [technical writer tech]
+tags: [technical writing, tech, tools]
 ---
 # Base Tools For Technical Write
 
