@@ -104,3 +104,5 @@ For technical writers, having a writing style guide is key to keeping all docume
 * **Accessibility and Usability**: The guide should be easy to follow and use, helping everyone involved in writing and editing to apply it easily.
 * **Inclusion of Multimedia Elements**: The guide might also have rules on how to add and format pictures, links, and other media in the text to make the information more valuable and easier to read.
 * **Ongoing Updates**: It’s important to keep updating the style guide to include new ideas, methods, and improvements in writing skills.
+
+[Google Developer Style Guide](https://developers.google.com/style)
