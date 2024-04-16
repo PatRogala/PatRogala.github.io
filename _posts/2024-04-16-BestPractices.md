@@ -16,3 +16,7 @@ Storytelling is a valuable method for technical writers. It explains complex inf
 * **End**: Offer a summary of the results or the application of the concept.
 
 Technical writers can use storytelling through business scenarios, case studies, or user stories. The key is to keep the story relevant, realistic, and brief. The main goal is to educate while keeping the audience interested.
+
+## Subtle Selling in Technical Writing
+
+Subtle selling is a way of writing where the writer talks about a product, service, or idea in a helpful way. Instead of trying hard to make a sale, this method shares useful information. It shows how something special about the product or service can fix a problem or meet a need. This way, it gently suggests to the reader to think about the product or service. The main point is to show the value quietly and without being pushy.
