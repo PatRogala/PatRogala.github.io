@@ -48,3 +48,26 @@ Call to Actions (CTAs) are parts of technical writing that tell readers exactly 
 
 * **Design tips**: Use bright or contrasting colors for CTAs to make them pop out.
 
+## References
+
+References are very important in technical documents. They help confirm the facts you share and make your work more trustworthy. Here are the main points about using references:
+
+* **Purpose**: References let readers check the facts and data you use.
+* **Citation styles**: You might need to add references directly in the text as in-text citations or as footnotes, depending on the style guide you follow.
+* **Formats**: There are different formats like APA, MLA, and Chicago, each with rules on how to list your sources.
+* **Relevance and accuracy**: Make sure all your references are related to your topic, up to date, and correctly cited to keep your work accurate and avoid plagiarism.
+* **Quantity**: The number of references might change based on what kind of document it is, how long it is, and how complex it is.
+
+Carefully picking and using references helps support your claims and keeps your readers' trust.
+
+## Crafting Great Titles
+
+Creating strong titles is very important for technical writers. A good title can make someone decide to read your content. Here’s how to make your titles work well:
+
+* **Engagement and Accuracy**: Make your titles interesting but also accurate, giving a clear idea of what’s inside.
+* **Clarity and Conciseness**: Keep titles clear and short, capturing the main point without extra words.
+* **Keyword Inclusion**: Use important keywords to help people find your content, but avoid hard jargon that might push them away.
+* **Active Voice**: Use active verbs to make your titles lively and strong.
+* **Content Alignment**: Make sure the title truly reflects what’s in the document. It shouldn’t trick the reader.
+* **Audience Consideration**: Think about what your readers care about and make titles that speak to that.
+* **Revision**: Be ready to change the title if you find a better way to present it as you work on the content.
