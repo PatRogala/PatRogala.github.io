@@ -71,3 +71,14 @@ Creating strong titles is very important for technical writers. A good title can
 * **Content Alignment**: Make sure the title truly reflects what’s in the document. It shouldn’t trick the reader.
 * **Audience Consideration**: Think about what your readers care about and make titles that speak to that.
 * **Revision**: Be ready to change the title if you find a better way to present it as you work on the content.
+
+## Content Objectives and Intent
+
+Content objectives are crucial for guiding technical writers in their work. These objectives have several important roles:
+
+* **Goal Alignment**: Objectives should match the main goals of the project. These goals can be teaching users, giving clear instructions, or explaining hard topics in a simple way.
+* **Guidance for Writing**: Having clear objectives helps writers decide how to write, affecting the style and structure of the content.
+* **Content Creation and Revision**: Objectives are like markers during the writing process, from start to finish, making sure the content meets its goals.
+* **Quality Assurance**: Sticking to these objectives helps writers make their final work better and more effective.
+
+Having clear objectives is about making sure the content is meaningful and meets the users' needs.
