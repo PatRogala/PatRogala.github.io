@@ -16,10 +16,10 @@ timezone:
 
 title: PatRogala WIKI # the main title
 
-tagline: Knowledge base on programming and technology # it will display as the sub-title
+tagline: Knowledge base for programming and technology # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Knowledge base on programming and technology by PatRogala.
+  Knowledge base for programming and technology by PatRogala.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
