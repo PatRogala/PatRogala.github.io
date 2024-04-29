@@ -1,6 +1,6 @@
 ---
 title: Filter Objects in Rails - How to Manage Filtering
-date: 2024-04-21 15:33:55 +0000
+date: 2024-04-29 14:29:55 +0000
 categories: [Ruby on Rails, Layered Design for Ruby on Rails Applications]
 tags: [ruby, rails, web, layered design, models, active record, filter object]
 ---
