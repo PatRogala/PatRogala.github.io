@@ -31,7 +31,7 @@ end
 
 ## Securing Different Layers
 
-![Desktop View](/posts/images/secure-layers-of-web-app.webp){: width="972" height="589" }
+![Desktop View](./images/secure-layers-of-web-app.webp){: width="972" height="589" }
 _Secure Layers of Web App_
 
 Securing a web app involves protecting various layers. Beyond just authorization and authentication, we also need to consider system constraints and data validation.
