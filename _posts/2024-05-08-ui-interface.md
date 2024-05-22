@@ -1,6 +1,6 @@
 ---
 title: Upgrade Your Rails UI - Introducing View Components
-date: 2024-05-05 19:25:00 +0000
+date: 2024-05-08 19:25:00 +0000
 categories: [Ruby on Rails, Layered Design for Ruby on Rails Applications]
 tags: [rails, ui, view components, rendering, parameters, development, web development]
 ---
