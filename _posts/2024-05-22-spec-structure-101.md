@@ -1,6 +1,6 @@
 ---
 title: "Spec Structure 101: Your Guide to Readable, Maintainable Tests"
-date: 2024-05-22 19:25:00 +0000
+date: 2024-05-22 13:18:00 +0000
 categories: [Ruby on Rails, Layered Design for Ruby on Rails Applications]
 tags: [rails, ui, view components, rendering, parameters, development, web development]
 ---
