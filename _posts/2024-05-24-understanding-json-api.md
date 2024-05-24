@@ -1,6 +1,5 @@
 ---
-title: "Understanding JSON API: A Simple Explanation
-"
+title: "Understanding JSON API: A Simple Explanation"
 date: 2024-05-24 18:26:00 +0000
 categories: [Backend Topics, API]
 tags: [json, api, specification, client, server, fetch, resource, response, data, type, id, attributes, relationships, include, fields, create, update, delete, request, lms, web, app, courses, instructors, programming, web-development, html, css, javascript, efficiency, overhead]
