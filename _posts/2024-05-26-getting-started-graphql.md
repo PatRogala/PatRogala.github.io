@@ -1,6 +1,6 @@
 ---
 title: "Getting Started with GraphQL"
-date: 2024-05-25 09:39:00 +0000
+date: 2024-05-26 09:39:00 +0000
 categories: [Backend Topics, API]
 tags: [graphql, query, language, overfetching, underfetching, data, control, flexibility, rest, api, web, applications, complex, efficient, performance, user, experience, solution, powerful, data deluge, manage]
 ---
