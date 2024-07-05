@@ -1,5 +1,5 @@
 ---
-title: "Why Your Rails API is a Sitting Duck (And How to Fix It Fast!)"
+title: "Why Your Rails API is a Sitting Duck 🦆 (And How to Fix It Fast!)"
 date: 2024-07-05 19:14:00 +0000
 categories: [API, Designing Web APIs]
 tags: [ruby, rails, api, security, oauth, authentication, authorization, webdev, coding, programming, rubyonrails, backend, websecurity, apidevelopment, devops, encryption, httpsecurity, cybersecurity, developertools, codingtips, web application, software engineering, tech, webhooks, basic auth, tls, data protection, networking, best practices, coding bootcamp]
